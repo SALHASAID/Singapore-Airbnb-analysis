@@ -27,7 +27,7 @@ Data Analysis (SQL):
   Run the SQL queries provided in analysis.sql to perform analysis on the cleaned dataset. Connect to your SQL database to execute the queries.
 
 Visualization (Power BI):
-  Open the visualization.pbix file using Power BI Desktop to view the visualizations. Connect the file to your dataset if necessary.
+  Open the visualization.pbix file using Power BI Desktop to view the visualizations, Connect the file to your dataset if necessary.
 
 
 
